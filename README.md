@@ -1,3 +1,3 @@
 # Election-Analytics
 
-Insights about Parliamentary Election of previous years
+Insights about Parliamentary Elections of previous years
